@@ -6,6 +6,8 @@
 
 Thanks for checking out this front-end coding challenge.
 
+Link for Hosted Website:https://base-apparel-coming-soon-main.vercel.app/
+
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
 ## The challenge
